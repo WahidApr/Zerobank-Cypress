@@ -1,0 +1,15 @@
+{
+  "name": "Zerobank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wahid",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "Cypress run"
+  },
+  "dependencies": {
+    "cypress": "9.5.3",
+    "prettier": "^3.0.0"
+  }
+}
